@@ -11,4 +11,5 @@ module.exports = {
       },
     },
   },
+  publicPath: '/vuejs/test_convenia/',
 };
