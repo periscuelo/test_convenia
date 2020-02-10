@@ -1,0 +1,4 @@
+@mixin ptb($pixels) {
+  padding-top: ptr($pixels);
+  padding-bottom: ptr($pixels);
+}

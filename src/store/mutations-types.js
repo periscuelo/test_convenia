@@ -1,0 +1,3 @@
+/* eslint-disable */
+export const CHANGE_TABLE_SELECTED = 'CHANGE_TABLE_SELECTED';
+export const CHANGE_PRODUCTS_PAID = 'CHANGE_PRODUCTS_PAID';
